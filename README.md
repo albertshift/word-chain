@@ -10,6 +10,7 @@ starting => stating => statin => satin => sati => sat => at
 
 assuming your dictionary is:
 
+```
 at
 bat
 be
@@ -20,6 +21,7 @@ satin
 starting
 statin
 stating
+```
 
 The program must take the path to a dictionary as input. The dictionary will contain words, one per line. The program
  must output the longest chains which can be created from the words in the dictionary.
